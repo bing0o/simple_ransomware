@@ -7,3 +7,5 @@ pathlib,
 sys,
 base64,
 os .
+# How It Work!?
+here: https://www.youtube.com/watch?v=JgYln0dT65k&t=13s
